@@ -1,0 +1,14 @@
+data/apps.csv
+  h_d6e478ca18e517 2210
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3f71ca02f3f6c161e1ff10670899c084ed4b7db4",
+  "prompts": {},
+  "humans": {
+    "h_d6e478ca18e517": {
+      "author": "Thomas Camlong <thomas@ajnart.fr>"
+    }
+  }
+}
